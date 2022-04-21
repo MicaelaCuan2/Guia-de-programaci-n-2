@@ -335,7 +335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81fc55ab092be8742b1c76e11f9d9bbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num1: 2
+  num1: 100
   num2: 100
 --- !u!4 &2011406231
 Transform:
